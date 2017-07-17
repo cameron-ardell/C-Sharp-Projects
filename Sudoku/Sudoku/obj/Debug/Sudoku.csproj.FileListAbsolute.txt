@@ -1,0 +1,12 @@
+C:\Users\sarde\Desktop\C# Projects\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\sarde\Desktop\C# Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\sarde\Desktop\C# Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\sarde\Desktop\C# Projects\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\sarde\Desktop\C# Projects\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\sarde\Desktop\C# Projects\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\sarde\Desktop\C-Sharp-Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\sarde\Desktop\C-Sharp-Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\sarde\Desktop\C-Sharp-Projects\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\sarde\Desktop\C-Sharp-Projects\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\sarde\Desktop\C-Sharp-Projects\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\sarde\Desktop\C-Sharp-Projects\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
