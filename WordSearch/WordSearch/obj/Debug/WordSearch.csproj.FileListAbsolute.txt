@@ -1,0 +1,6 @@
+C:\Users\sarde\Desktop\C-Sharp-Projects\WordSearch\WordSearch\obj\Debug\WordSearch.csprojResolveAssemblyReference.cache
+C:\Users\sarde\Desktop\C-Sharp-Projects\WordSearch\WordSearch\bin\Debug\WordSearch.exe.config
+C:\Users\sarde\Desktop\C-Sharp-Projects\WordSearch\WordSearch\bin\Debug\WordSearch.exe
+C:\Users\sarde\Desktop\C-Sharp-Projects\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
+C:\Users\sarde\Desktop\C-Sharp-Projects\WordSearch\WordSearch\obj\Debug\WordSearch.exe
+C:\Users\sarde\Desktop\C-Sharp-Projects\WordSearch\WordSearch\obj\Debug\WordSearch.pdb
