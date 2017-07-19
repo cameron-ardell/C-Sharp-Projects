@@ -1,0 +1,6 @@
+C:\Users\sarde\Desktop\C-Sharp-Projects\Basic_Recursion\Basic_Recursion\bin\Debug\Basic_Recursion.exe.config
+C:\Users\sarde\Desktop\C-Sharp-Projects\Basic_Recursion\Basic_Recursion\bin\Debug\Basic_Recursion.exe
+C:\Users\sarde\Desktop\C-Sharp-Projects\Basic_Recursion\Basic_Recursion\bin\Debug\Basic_Recursion.pdb
+C:\Users\sarde\Desktop\C-Sharp-Projects\Basic_Recursion\Basic_Recursion\obj\Debug\Basic_Recursion.csprojResolveAssemblyReference.cache
+C:\Users\sarde\Desktop\C-Sharp-Projects\Basic_Recursion\Basic_Recursion\obj\Debug\Basic_Recursion.exe
+C:\Users\sarde\Desktop\C-Sharp-Projects\Basic_Recursion\Basic_Recursion\obj\Debug\Basic_Recursion.pdb
