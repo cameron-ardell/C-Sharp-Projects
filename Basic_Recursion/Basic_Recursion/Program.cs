@@ -61,24 +61,35 @@ namespace Basic_Recursion
             Console.WriteLine();
 
 
-            String palTest = "Rise to vote sir";
+
+            String palTest = "racecar";
             if (isPalindrome(palTest))
             {
-                Console.WriteLine("\"" + palTest + "\" is a palindrome");
+                Console.WriteLine("\"" + palTest + "\" is a palindrome\n");
             }
             else
             {
-                Console.WriteLine("\"" + palTest + "\" is NOT a palindrome");
+                Console.WriteLine("\"" + palTest + "\" is NOT a palindrome\n");
+            }
+
+            palTest = "Rise to vote sir";
+            if (isPalindrome(palTest))
+            {
+                Console.WriteLine("\"" + palTest + "\" is a palindrome\n");
+            }
+            else
+            {
+                Console.WriteLine("\"" + palTest + "\" is NOT a palindrome\n");
             }
 
             palTest = "Are we not drawn onward to New Era";
             if (isPalindrome(palTest))
             {
-                Console.WriteLine("\"" + palTest + "\" is a palindrome");
+                Console.WriteLine("\"" + palTest + "\" is a palindrome\n");
             }
             else
             {
-                Console.WriteLine("\"" + palTest + "\" is NOT a palindrome");
+                Console.WriteLine("\"" + palTest + "\" is NOT a palindrome\n");
             }
 
             palTest = "This is not a palindrome";
@@ -175,18 +186,24 @@ namespace Basic_Recursion
             String firstChar = s[0].ToString();
             String lastChar = s[s.Length - 1].ToString();
 
+            string ret;
             // take care of leading space, if there is one
-            if (firstChar.Equals(' '))
-                return isPalindrome(s.Substring(1));
-
+            if (firstChar.Equals(" "))
+            {
+                ret = s.Substring(1);
+                return isPalindrome(ret);
+            }
+                
             // take care of trailing space, if there is one
-            if (lastChar.Equals(' '))
-                return isPalindrome(s.Substring(0, s.Length - 1));
+            if (lastChar.Equals(" "))
+            {
+                ret = s.Substring(0, s.Length - 1);
+                return isPalindrome(ret);
+            }
 
             // if no leading or trailing space, check first and last characters)
             if ( firstChar.ToUpper() != lastChar.ToUpper() )
             {
-                Console.WriteLine("Word was: " + s);
                 return false;
             }
 

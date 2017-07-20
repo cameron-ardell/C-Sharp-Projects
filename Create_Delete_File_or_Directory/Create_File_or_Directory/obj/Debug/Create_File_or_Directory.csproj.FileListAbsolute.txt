@@ -1,0 +1,9 @@
+c:\users\sarde\documents\visual studio 2017\Projects\Create_File_or_Directory\Create_File_or_Directory\bin\Debug\Create_File_or_Directory.exe.config
+c:\users\sarde\documents\visual studio 2017\Projects\Create_File_or_Directory\Create_File_or_Directory\bin\Debug\Create_File_or_Directory.exe
+c:\users\sarde\documents\visual studio 2017\Projects\Create_File_or_Directory\Create_File_or_Directory\bin\Debug\Create_File_or_Directory.pdb
+c:\users\sarde\documents\visual studio 2017\Projects\Create_File_or_Directory\Create_File_or_Directory\obj\Debug\Create_File_or_Directory.csprojResolveAssemblyReference.cache
+c:\users\sarde\documents\visual studio 2017\Projects\Create_File_or_Directory\Create_File_or_Directory\obj\Debug\Create_File_or_Directory.Form1.resources
+c:\users\sarde\documents\visual studio 2017\Projects\Create_File_or_Directory\Create_File_or_Directory\obj\Debug\Create_File_or_Directory.Properties.Resources.resources
+c:\users\sarde\documents\visual studio 2017\Projects\Create_File_or_Directory\Create_File_or_Directory\obj\Debug\Create_File_or_Directory.csproj.GenerateResource.Cache
+c:\users\sarde\documents\visual studio 2017\Projects\Create_File_or_Directory\Create_File_or_Directory\obj\Debug\Create_File_or_Directory.exe
+c:\users\sarde\documents\visual studio 2017\Projects\Create_File_or_Directory\Create_File_or_Directory\obj\Debug\Create_File_or_Directory.pdb
