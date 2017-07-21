@@ -1,0 +1,6 @@
+C:\Users\sarde\Desktop\C-Sharp-Projects\Boggle\Boggle\bin\Debug\Boggle.exe.config
+C:\Users\sarde\Desktop\C-Sharp-Projects\Boggle\Boggle\bin\Debug\Boggle.exe
+C:\Users\sarde\Desktop\C-Sharp-Projects\Boggle\Boggle\bin\Debug\Boggle.pdb
+C:\Users\sarde\Desktop\C-Sharp-Projects\Boggle\Boggle\obj\Debug\Boggle.csprojResolveAssemblyReference.cache
+C:\Users\sarde\Desktop\C-Sharp-Projects\Boggle\Boggle\obj\Debug\Boggle.exe
+C:\Users\sarde\Desktop\C-Sharp-Projects\Boggle\Boggle\obj\Debug\Boggle.pdb
