@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>MVC Bank</h1>
+    <p class="lead">First ever web-based ATM. Give it a try today!</p>
+    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Powered by ASP.NET.</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Register</h2>
+        <p>
+            Open an account with us.
+        </p>
+        <p>@Html.ActionLink("Register", "Register", "Account", null, new { @class = "btn btn-default"})</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Log in</h2>
+        <p>Access your existing account.</p>
+        <p> @Html.ActionLink("Log in", "Login", "Account", null, new { @class = "btn btn-default"})</p>
+    </div>
+</div>
+
+@*You are using @Request.Browser.Browser, and that's OK! Email us at support@mvcatm.com if you have any problems. Or send us a tweet @@mvcatm.
+
+@{var amounts = new List<Decimal> { 100, 25.50m, -40, 275.99m }; }
+
+<ul>
+    @foreach(decimal amount in amounts)
+    {
+        <li>@formatAmount(amount)</li>
+    }
+</ul>
+
+@helper formatAmount(decimal amount)
+{
+    var color = "green";
+    if (amount < 0)
+    {
+        color = "red";
+    }
+    <span style="color:@color">@String.Format("{0:c}", amount)</span>
+}*@
